@@ -1,0 +1,5 @@
+C:\Users\karpen.a\Desktop\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\karpen.a\Desktop\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\karpen.a\Desktop\Sender\Sender\obj\x86\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\karpen.a\Desktop\Sender\Sender\obj\x86\Debug\Sender.exe
+C:\Users\karpen.a\Desktop\Sender\Sender\obj\x86\Debug\Sender.pdb

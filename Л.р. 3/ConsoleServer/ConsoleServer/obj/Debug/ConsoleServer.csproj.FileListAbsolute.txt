@@ -1,0 +1,6 @@
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+C:\Users\Komp\Desktop\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb

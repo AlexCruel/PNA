@@ -1,0 +1,7 @@
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\bin\Debug\SimpleTcpListener.exe.config
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\bin\Debug\SimpleTcpListener.exe
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\bin\Debug\SimpleTcpListener.pdb
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\obj\Debug\SimpleTcpListener.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\obj\Debug\SimpleTcpListener.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\obj\Debug\SimpleTcpListener.exe
+C:\Users\Komp\Desktop\SimpleTcpListener\SimpleTcpListener\obj\Debug\SimpleTcpListener.pdb

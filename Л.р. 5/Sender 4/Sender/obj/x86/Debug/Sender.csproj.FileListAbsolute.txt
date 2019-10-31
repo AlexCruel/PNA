@@ -1,0 +1,11 @@
+D:\Сети\Л.р. 5\Sender 4\Sender\bin\Debug\Sender.exe
+D:\Сети\Л.р. 5\Sender 4\Sender\bin\Debug\Sender.pdb
+D:\Сети\Л.р. 5\Sender 4\Sender\obj\x86\Debug\Sender.csproj.CoreCompileInputs.cache
+D:\Сети\Л.р. 5\Sender 4\Sender\obj\x86\Debug\Sender.exe
+D:\Сети\Л.р. 5\Sender 4\Sender\obj\x86\Debug\Sender.pdb
+F:\Сети\Л.р. 5\Sender 4\Sender\obj\x86\Debug\Sender.exe
+F:\Сети\Л.р. 5\Sender 4\Sender\obj\x86\Debug\Sender.pdb
+C:\Users\karpen.a\Desktop\Sender 4\Sender\obj\x86\Debug\Sender.exe
+C:\Users\karpen.a\Desktop\Sender 4\Sender\obj\x86\Debug\Sender.pdb
+C:\Users\karpen.a\Desktop\Sender 4\Sender\bin\Debug\Sender.exe
+C:\Users\karpen.a\Desktop\Sender 4\Sender\bin\Debug\Sender.pdb

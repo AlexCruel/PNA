@@ -1,0 +1,7 @@
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe.config
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.exe
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.pdb
+C:\Users\Komp\Desktop\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.csprojAssemblyReference.cache

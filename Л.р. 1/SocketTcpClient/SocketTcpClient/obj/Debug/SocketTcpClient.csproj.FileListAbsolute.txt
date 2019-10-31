@@ -1,0 +1,6 @@
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.exe.config
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.exe
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.pdb
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\obj\Debug\SocketTcpClient.csproj.CoreCompileInputs.cache
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\obj\Debug\SocketTcpClient.exe
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpClient\SocketTcpClient\obj\Debug\SocketTcpClient.pdb

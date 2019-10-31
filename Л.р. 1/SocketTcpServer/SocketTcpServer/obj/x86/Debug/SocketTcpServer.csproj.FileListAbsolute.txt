@@ -1,0 +1,13 @@
+C:\Users\karpen.a\Desktop\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.exe
+C:\Users\karpen.a\Desktop\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.pdb
+C:\Users\karpen.a\Desktop\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.exe
+C:\Users\karpen.a\Desktop\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.pdb
+C:\Users\karpen.a\Desktop\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.exe
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.pdb
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.exe
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.pdb
+C:\Users\Komp\Desktop\Сети\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.csprojAssemblyReference.cache
+F:\Сети\Л.р. 1\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.exe
+F:\Сети\Л.р. 1\SocketTcpServer\SocketTcpServer\obj\x86\Debug\SocketTcpServer.pdb

@@ -1,0 +1,9 @@
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.exe
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.pdb
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.ChatForm.resources
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.Properties.Resources.resources
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.csproj.GenerateResource.Cache
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.exe
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.pdb
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\obj\x86\Debug\MulticastChat.csprojResolveAssemblyReference.cache
+C:\Users\karpen.a\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.exe.config

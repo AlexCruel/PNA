@@ -1,0 +1,10 @@
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.exe.config
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.exe
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\bin\Debug\MulticastChat.pdb
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.Properties.Resources.resources
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.csproj.GenerateResource.cache
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.exe
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.pdb
+C:\Users\Komp\Desktop\MulticastChat\MulticastChat\obj\Debug\MulticastChat.ChatForm.resources

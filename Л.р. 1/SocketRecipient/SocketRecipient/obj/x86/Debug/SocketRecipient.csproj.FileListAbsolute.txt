@@ -1,0 +1,10 @@
+C:\Users\karpen.a\Desktop\SocketRecipient\SocketRecipient\bin\Debug\SocketRecipient.exe
+C:\Users\karpen.a\Desktop\SocketRecipient\SocketRecipient\bin\Debug\SocketRecipient.pdb
+C:\Users\karpen.a\Desktop\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.exe
+C:\Users\karpen.a\Desktop\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.pdb
+C:\Users\karpen.a\Desktop\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.csprojResolveAssemblyReference.cache
+C:\Users\Komp\Desktop\Сети\SocketRecipient\SocketRecipient\bin\Debug\SocketRecipient.exe
+C:\Users\Komp\Desktop\Сети\SocketRecipient\SocketRecipient\bin\Debug\SocketRecipient.pdb
+C:\Users\Komp\Desktop\Сети\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Сети\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.exe
+C:\Users\Komp\Desktop\Сети\SocketRecipient\SocketRecipient\obj\x86\Debug\SocketRecipient.pdb

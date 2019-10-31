@@ -1,0 +1,7 @@
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.exe.config
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.exe
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\bin\Debug\SocketTcpServer.pdb
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\obj\Debug\SocketTcpServer.csprojAssemblyReference.cache
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\obj\Debug\SocketTcpServer.csproj.CoreCompileInputs.cache
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\obj\Debug\SocketTcpServer.exe
+F:\Учёба\C#\Задания\3 курс\Сети\SocketTcpServer\SocketTcpServer\obj\Debug\SocketTcpServer.pdb

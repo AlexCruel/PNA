@@ -1,0 +1,11 @@
+C:\Users\karpen.a\Desktop\SocketSender\SocketSender\bin\Debug\SocketSender.exe
+C:\Users\karpen.a\Desktop\SocketSender\SocketSender\bin\Debug\SocketSender.pdb
+C:\Users\karpen.a\Desktop\SocketSender\SocketSender\obj\x86\Debug\SocketSender.csprojResolveAssemblyReference.cache
+C:\Users\karpen.a\Desktop\SocketSender\SocketSender\obj\x86\Debug\SocketSender.exe
+C:\Users\karpen.a\Desktop\SocketSender\SocketSender\obj\x86\Debug\SocketSender.pdb
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\bin\Debug\SocketSender.exe
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\bin\Debug\SocketSender.pdb
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\obj\x86\Debug\SocketSender.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\obj\x86\Debug\SocketSender.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\obj\x86\Debug\SocketSender.exe
+C:\Users\Komp\Desktop\Сети\SocketSender\SocketSender\obj\x86\Debug\SocketSender.pdb

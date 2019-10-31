@@ -1,0 +1,14 @@
+C:\Users\karpen.a\Desktop\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.exe
+C:\Users\karpen.a\Desktop\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.pdb
+C:\Users\karpen.a\Desktop\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.exe
+C:\Users\karpen.a\Desktop\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.pdb
+C:\Users\karpen.a\Desktop\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.csprojResolveAssemblyReference.cache
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.exe
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\bin\Debug\SocketTcpClient.pdb
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.csprojAssemblyReference.cache
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.exe
+C:\Users\Komp\Desktop\Сети\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.pdb
+F:\Сети\Л.р. 1\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.exe
+F:\Сети\Л.р. 1\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.pdb
+F:\Сети\Л.р. 1\SocketTcpClient\SocketTcpClient\obj\x86\Debug\SocketTcpClient.csprojResolveAssemblyReference.cache

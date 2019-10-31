@@ -1,0 +1,14 @@
+D:\Сети\Л.р. 5\Receiver 4\Receiver\bin\Debug\Receiver.exe
+D:\Сети\Л.р. 5\Receiver 4\Receiver\bin\Debug\Receiver.pdb
+D:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.csprojAssemblyReference.cache
+D:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.csproj.CoreCompileInputs.cache
+D:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.exe
+D:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.pdb
+F:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.exe
+F:\Сети\Л.р. 5\Receiver 4\Receiver\obj\x86\Debug\Receiver.pdb
+F:\Сети\Л.р. 5\Receiver 4\Receiver\bin\Debug\Receiver.exe
+F:\Сети\Л.р. 5\Receiver 4\Receiver\bin\Debug\Receiver.pdb
+C:\Users\karpen.a\Desktop\Receiver 4\Receiver\obj\x86\Debug\Receiver.exe
+C:\Users\karpen.a\Desktop\Receiver 4\Receiver\obj\x86\Debug\Receiver.pdb
+C:\Users\karpen.a\Desktop\Receiver 4\Receiver\bin\Debug\Receiver.exe
+C:\Users\karpen.a\Desktop\Receiver 4\Receiver\bin\Debug\Receiver.pdb
